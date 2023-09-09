@@ -1,0 +1,27 @@
+@media(min-width:320px){
+    .row{
+        width:90%;
+    }
+    
+    .pad{
+        padding: 30px 50px;
+    }
+}
+
+@media(min-width:660px){
+    .row{
+        width:80%;
+    }
+    .pad{
+        padding: 30px 200px;
+    }
+}
+
+@media(min-width:1000px){
+    .row{
+        width:30%;
+    }
+    .pad{
+        padding: 30px 90px;
+    }
+}
